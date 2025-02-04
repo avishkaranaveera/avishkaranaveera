@@ -23,6 +23,16 @@ Hi, I'm Avishka Ranaveera
 	</a>
 </p>
 
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmoudmiehob&theme=solarized_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8">
+	
+</p>
+
 ## 🐱My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=avishkaranaveera&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishkaranaveera&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/avishkaranaveera/github)
