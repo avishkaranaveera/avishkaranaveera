@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h1 align="center">
 Hi, I'm Avishka Ranaveera
@@ -33,9 +33,9 @@ Hi, I'm Avishka Ranaveera
 	
 </p>
 
-## 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=avishkaranaveera&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishkaranaveera&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/avishkaranaveera/github)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <!--
 **avishkaranaveera/avishkaranaveera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
