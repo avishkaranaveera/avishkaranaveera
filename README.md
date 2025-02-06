@@ -31,12 +31,13 @@ I’m a Software Engineering undergraduate , passionate about coding and problem
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
+- 🌱 I’m currently learning Devops.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend and Android Development.
 - 😄 Pronouns: He/Him
 
-<br/>
+<br/><br/><br/><br/>
 
 ---
 
