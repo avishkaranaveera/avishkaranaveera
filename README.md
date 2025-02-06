@@ -24,7 +24,7 @@ Hi, I'm Avishka Ranaveera
 </p>
 
 ### About me🧑:
-I’m a Software Engineering undergraduate , passionate about coding and problem-solving. I’m always eager to learn new technologies and build projects that solve real-world problems.  .<br/>
+I’m a Software Engineering undergraduate , passionate about coding and problem-solving. I’m always eager to learn new technologies and build projects that solve real-world problems.  .<br/><br /><br />
 
 
 
@@ -41,7 +41,7 @@ I’m a Software Engineering undergraduate , passionate about coding and problem
 
 ---
 
- <h2>  Languages & Skills </h2>
+ <h4>  Languages & Skills </h4>
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -60,9 +60,9 @@ I’m a Software Engineering undergraduate , passionate about coding and problem
 <code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
+<br /><br />
 
-
- <h4> 📊 Github Stats ....</h4>
+ <h4>  Github Stats ....</h4>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avishkaranaveera&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avishkaranaveera&theme=solarized_dark">
