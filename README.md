@@ -24,9 +24,9 @@ Hi, I'm Avishka Ranaveera
 </p>
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I’m a Software Engineering undergraduate , passionate about coding and problem-solving. I’m always eager to learn new technologies and build projects that solve real-world problems.  .<br/>
+
+
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
@@ -36,18 +36,12 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend and Android Development.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
 
 <br/>
 
 ---
 
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
+ <h2>  Languages & Skills </h2>
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -68,7 +62,7 @@ Languages and Tools🛠:
 </details>
 
 
- <h2> 📊 Github Stats ....</h2>
+ <h4> 📊 Github Stats ....</h4>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avishkaranaveera&theme=solarized_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avishkaranaveera&theme=solarized_dark">
