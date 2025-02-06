@@ -21,8 +21,8 @@ Hi, I'm Avishka Ranaveera
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Full+Stack+Web+Developer;Mobile+App+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
----
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 I’m a Software Engineering undergraduate , passionate about coding and problem-solving. I’m always eager to learn new technologies and build projects that solve real-world problems.  .<br/><br /><br />
 
 
