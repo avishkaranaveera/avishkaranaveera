@@ -23,19 +23,27 @@ Hi, I'm Avishka Ranaveera
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-I’m a Software Engineering undergraduate , passionate about coding and problem-solving. I’m always eager to learn new technologies and build projects that solve real-world problems.  .<br/><br /><br />
+I’m a Software Engineering undergraduate , passionate as a Full-stack developer with knowledge in ReactJs, Java, Springboot, and Php. I’m always eager to learn new technologies and build projects that solve real-world problems.  .<br/><br /><br />
 
 
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 🌱 I’m currently learning Devops.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
+- 🔭 I’m currently working on Fullstack web development and DevOps.
+- 🌱 Currently Learning: DevOps technologies.
+- 👯 Looking to collaborate on: Fullstack web development and  Android development.
+- 💬 Ask me about: React, Springboot, Java, Android and Php.
 - 😄 Pronouns: He/Him
+
+
+🛠️ Tech Stack
+🔹 Languages: Java, C, C++
+
+🔹 Frontend: React, HTML, CSS, Javascript, Bootstrap, 
+
+🔹 Backend: Springboot, Java
+
+🔹 Database: MySQL, Firebase
 
 <br/><br/><br/><br/>
 
