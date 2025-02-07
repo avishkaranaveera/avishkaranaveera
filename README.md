@@ -38,10 +38,10 @@ I’m a Software Engineering undergraduate , passionate as a Full-stack develope
 
 🛠️ Tech Stack
 
-🔹 Languages: Java, C
-🔹 Frontend: React, HTML, CSS, Javascript, Bootstrap, tailwind CSS
-🔹 Backend: Springboot, Java, Php
-🔹 Database: MySQL, Firebase, MongoDB
+🔹 Languages: Java, C <br/>
+🔹 Frontend: React, HTML, CSS, Javascript, Bootstrap, tailwind CSS <br/>
+🔹 Backend: Springboot, Java, Php <br/>
+🔹 Database: MySQL, Firebase, MongoDB <br/>
 
 <br/><br/><br/><br/>
 
