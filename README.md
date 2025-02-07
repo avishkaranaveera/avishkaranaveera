@@ -18,7 +18,7 @@ Hi, I'm Avishka Ranaveera
 <br/>
 <p align="center">
 	<a href="https://github.com/avishkaranaveera">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Full+Stack+Web+Developer;Mobile+App+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Undergraduate;Full+Stack+Web+Developer;DevOps;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
